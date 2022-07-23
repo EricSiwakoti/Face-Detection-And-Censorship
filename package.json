@@ -1,0 +1,17 @@
+{
+    "name": "main",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "author": "",
+    "license": "ISC",
+    "browserslist": [
+        "last 1 Chrome version"
+    ],
+    "dependencies": {
+        "parcel": "^2.0.0-alpha.2.1"
+    }
+}
